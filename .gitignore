@@ -1,0 +1,9 @@
+*.out
+test-results/
+.env
+logs/
+
+.local/
+.vagrant/
+
+result*
