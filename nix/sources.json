@@ -84,7 +84,7 @@
         "owner": "HOT-Protocol",
         "repo": "setzer-mcd",
         "rev": "f7aa0f22d7ca6cf3559dcf9c3d2e17c675eff03d",
-        "sha256": "1wm97xn4yqbj8mxfyyqra5981sjlm8kp7d0l1znksr70pzzmszhj",
+        "sha256": "0ywjgzmfrwwv3zxxv7i80nr2jyamr8yj88v564hywpsvn3zkfy2m",
         "type": "tarball",
         "url": "https://github.com/HOT-Protocol/setzer-mcd/archive/f7aa0f22d7ca6cf3559dcf9c3d2e17c675eff03d.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
