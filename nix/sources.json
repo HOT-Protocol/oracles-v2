@@ -83,10 +83,10 @@
         "homepage": "",
         "owner": "HOT-Protocol",
         "repo": "setzer-mcd",
-        "rev": "d8c6cb8776e70464d64413a212b30c731d2b3003",
-        "sha256": "1f3x8bl7czvsw4m72qnb72vrs9jf0yipjr2a5vn58qj6f3mc0yjy",
+        "rev": "4166e92611efd05755609488a87830526f3b9017",
+        "sha256": "18mivkwk2gy2rbvcf335w629537rdvid1n281rbxq3w93dy9v925",
         "type": "tarball",
-        "url": "https://github.com/HOT-Protocol/setzer-mcd/archive/d8c6cb8776e70464d64413a212b30c731d2b3003.tar.gz",
+        "url": "https://github.com/HOT-Protocol/setzer-mcd/archive/4166e92611efd05755609488a87830526f3b9017.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
